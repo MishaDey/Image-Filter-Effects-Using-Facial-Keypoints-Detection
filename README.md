@@ -1,8 +1,8 @@
 # Image Filter Effects Using Facial Keypoints Detection
 
 
-### 1. Facial Keypoints Detection using Convolutional Neural Network Model
-### 2. Generation of 8 Selfie filter effects with proper scaling and positioning.
+#### 1. Facial Keypoints Detection using Convolutional Neural Network Model
+#### 2. Generation of 8 Selfie filter effects with proper scaling and positioning.
      2.1. Popping eyes Filter
      2.3. Moustache and glasses
      2.3. Devil horns Filter
