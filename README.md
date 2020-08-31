@@ -1,7 +1,7 @@
 # Image Filter Effects Using Facial Keypoints Detection
-####1. FACIAL KEYPOINTS DETECTION USING CONVOLUTIONAL NEURAL NETWORKS MODEL
+#### 1. FACIAL KEYPOINTS DETECTION USING CONVOLUTIONAL NEURAL NETWORKS MODEL
 
-#####Libraries and Modules used:
+##### Libraries and Modules used:
 
 1. Keras
 
@@ -16,19 +16,19 @@
 
 
 
-####Dataset Description:
+#### Dataset Description:
 
 Facial Keypoints Detection Dataset by Dr Yoshua Bengio
 
 https://www.kaggle.com/c/facial-keypoints-detection/ 
 
-#####1.1. Fetching and Data Preprocessing(Data Refining, Normalization, Augmentation) 
+##### 1.1. Fetching and Data Preprocessing(Data Refining, Normalization, Augmentation) 
 
-#####1.2. Convolutional Neural Network Model Design and Training:
+##### 1.2. Convolutional Neural Network Model Design and Training:
 
          Model Summary: CNN Model Summary
 
-#####1.3. Testing the CNN Model for Facial Keypoints Detection
+##### 1.3. Testing the CNN Model for Facial Keypoints Detection
 
                 Loss = 0.0.11 and Accuracy = 84%
 
@@ -37,28 +37,28 @@ https://www.kaggle.com/c/facial-keypoints-detection/ 
 
 
 
-####2. DESIGN FILTER EFFECTS USING THE CNN MODEL AND PROPER POSITIONING AND SCALING
+#### 2. DESIGN FILTER EFFECTS USING THE CNN MODEL AND PROPER POSITIONING AND SCALING
 
-      #####2.1. Popping Eyes Filter
+      ##### 2.1. Popping Eyes Filter
 
-      #####2.2. Moustache and glasses
+      ##### 2.2. Moustache and glasses
 
-      #####2.3. Devil Horns Filter
+      ##### 2.3. Devil Horns Filter
 
-      #####2.4. Harry Potter Invisibility Cloak
+      ##### 2.4. Harry Potter Invisibility Cloak
 
-      #####2.5. Easter Bunny Face Filter
+      ##### 2.5. Easter Bunny Face Filter
 
-      #####2.6. Dog Face Filter
+      ##### 2.6. Dog Face Filter
 
-      #####2.7. Santa Claus Filter
+      ##### 2.7. Santa Claus Filter
 
-      #####2.8. Scary Jaw filter
-
-
+      ##### 2.8. Scary Jaw filter
 
 
-#####Libraries and Modules used:
+
+
+##### Libraries and Modules used:
 
 1. OpenCV
 
@@ -71,7 +71,7 @@ https://www.kaggle.com/c/facial-keypoints-detection/ 
 
 
 
-#####PROCEDURE :
+##### PROCEDURE :
 
 1. Capture the frame using OpenCV.
 
@@ -109,6 +109,6 @@ The percentage of brightness or intensity of a colour.
 
 
 
-#####Demonstration Video :
+##### Demonstration Video :
 
 
