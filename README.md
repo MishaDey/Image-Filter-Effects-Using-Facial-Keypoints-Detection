@@ -31,8 +31,7 @@ https://www.kaggle.com/c/facial-keypoints-detection/ 
 ##### 1.3. Testing the CNN Model for Facial Keypoints Detection
 
                 Loss = 0.0.11 and Accuracy = 84%
-   Test Results:
-https://drive.google.com/file/d/14EvqX_bBJMHqjdnfg7E5JNGVOjwg2oZz/view?usp=sharing
+    Test Results :https://drive.google.com/file/d/14EvqX_bBJMHqjdnfg7E5JNGVOjwg2oZz/view?usp=sharing
 
 
 
