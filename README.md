@@ -26,13 +26,14 @@ https://www.kaggle.com/c/facial-keypoints-detection/ 
 
 ##### 1.2. Convolutional Neural Network Model Design and Training:
 
-         Model Summary: CNN Model Summary
+         Model Summary: https://drive.google.com/file/d/1U7O4FmUT6fxNmR8KpFfQ9BcZjpxJDZ3i/view?usp=sharing
 
 ##### 1.3. Testing the CNN Model for Facial Keypoints Detection
 
                 Loss = 0.0.11 and Accuracy = 84%
 
-                               Test Results
+                               Test Results:
+           https://drive.google.com/file/d/14EvqX_bBJMHqjdnfg7E5JNGVOjwg2oZz/view?usp=sharing
 
 
 
