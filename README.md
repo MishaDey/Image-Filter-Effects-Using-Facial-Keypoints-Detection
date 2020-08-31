@@ -39,21 +39,21 @@ https://www.kaggle.com/c/facial-keypoints-detection/ 
 
 #### 2. DESIGN FILTER EFFECTS USING THE CNN MODEL AND PROPER POSITIONING AND SCALING
 
-      ##### 2.1. Popping Eyes Filter
+       2.1. Popping Eyes Filter
 
-      ##### 2.2. Moustache and glasses
+       2.2. Moustache and glasses
 
-      ##### 2.3. Devil Horns Filter
+       2.3. Devil Horns Filter
 
-      ##### 2.4. Harry Potter Invisibility Cloak
+       2.4. Harry Potter Invisibility Cloak
 
-      ##### 2.5. Easter Bunny Face Filter
+       2.5. Easter Bunny Face Filter
 
-      ##### 2.6. Dog Face Filter
+       2.6. Dog Face Filter
 
-      ##### 2.7. Santa Claus Filter
+       2.7. Santa Claus Filter
 
-      ##### 2.8. Scary Jaw filter
+       2.8. Scary Jaw filter
 
 
 
