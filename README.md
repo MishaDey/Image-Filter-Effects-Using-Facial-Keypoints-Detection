@@ -62,7 +62,7 @@ https://www.kaggle.com/c/facial-keypoints-detection/ 
 
 1. OpenCV
 
-2. Numpy
+2. Numpy
 
 3. Matplotlib
 
