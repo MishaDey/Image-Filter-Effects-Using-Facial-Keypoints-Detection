@@ -5,7 +5,7 @@
 
 1. Keras
 
-2. Numpy
+2. Numpy
 
 3. Pandas
 
